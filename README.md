@@ -17,7 +17,7 @@ This README will give you some practice with Markdown, and help you create your 
 
 <!-- Add some emphasis to the paragraph below. Surround words or phrases with * _ or ` -->
 
-Unfortunately, this README has very little Markdown in it. Before we get into MkDocs,
+Unfortunately, this `README` has _very_ little **Markdown** in it. Before we get into `MkDocs`,
 let's improve the aesthetics in this file. While editing, you can toggle into Preview mode.
 
 <!-- Next up, headings. Add one or more hashtags before a line to make it a heading -->
