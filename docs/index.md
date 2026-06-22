@@ -1,4 +1,6 @@
-# Welcome to MkDocs
+# Manish Sharma Timilsina 
+
+![MyPhoto](docs/assets/myphoto)
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
