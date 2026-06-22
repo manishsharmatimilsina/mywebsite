@@ -4,36 +4,32 @@ Manish Sharma Timilsina is a PhD researcher at Imperial College London, where he
 
 ![MyPhoto](docs/assets/myphoto)
 
+<img src= "docs/assets/myphoto">
 
 ## Publications
 
-1. **Manish Sharma Timilsina**,Tauqir Ahmad, Gyengeun Kim, Dandy Andhika Fatriyaji, Sangbin
-Shin, Wonjoo Lee, Youngchang Yu*, Dowon Ahn*, and Ju-Won Jeon * Thermoresponsive redoxactive polymers for synergistic boost in thermopower of n-type thermogalvanic cells * *Carbon
+1.  **Manish Sharma Timilsina**,Tauqir Ahmad, Gyengeun Kim, Dandy Andhika Fatriyaji, Sangbin
+Shin, Wonjoo Lee, Youngchang Yu*, Dowon Ahn*, and Ju-Won Jeon * Thermoresponsive redox-active polymers for synergistic boost in thermopower of n-type thermogalvanic cells * *Carbon
 energy* [Submitted]
-<br>
-2. Manish Sharma Timilsina, Zhiqi Zhu, Raunak Pandey, Jagdeep Singh, Oluwafunmilola Ola,
+
+2.  Manish Sharma Timilsina, Zhiqi Zhu, Raunak Pandey, Jagdeep Singh, Oluwafunmilola Ola,
 Sumanta Sahoo, Iftikar Hussain, Santosh K. Tiwari * Advancement in Nano-based thermoelectric
-materials: surface modification strategies, effieicny analysis, applications* Journal of Materials
-Chemistry A, doi: 
-<br>
-3. Manish Sharma Timilsina, Yuvraj Chaudhary, Aman Kumar Shah, Sunil Prasad Lohani,
+materials: surface modification strategies, effieicny analysis, applications* *Journal of Materials
+Chemistry A*, doi: [10.1039/D5TA02567B ](10.1039/D5TA02567B)
+
+3.  Manish Sharma Timilsina, Yuvraj Chaudhary, Aman Kumar Shah, Sunil Prasad Lohani,
 Ramchandra Bhandari, and Bibek Uprety. *Syngas Composition Analysis for Waste to Methanol
-Production: Techno-economic Assessment Using Machine Learning and Aspen Plus*. Renewable
-Energy, vol. 228, p. 120574, Jul. 2024. doi: [10.1016/j.renene.2024.120574].
-<br>
-4. Manish Sharma Timilsina, Subhadip Sen, Bibek Uprety, Vashishtha B Patel, Prateek Sharma,
+Production: Techno-economic Assessment Using Machine Learning and Aspen Plus*. *Renewable
+Energy*, vol. 228, p. 120574, Jul. 2024. doi: [10.1016/j.renene.2024.120574](10.1016/j.renene.2024.120574).
+
+4.  Manish Sharma Timilsina, Subhadip Sen, Bibek Uprety, Vashishtha B Patel, Prateek Sharma,
 and Pratik N. Sheth. *Prediction of HHV of Fuel by Machine Learning Algorithm: Interpretability
 Analysis Using Shapley Additive Explanations (SHAP)*. *Fuel*, vol. 357, p. 129573, Feb. 2024.
-doi: [10.1016/j.fuel.2023.129573].
-<br>
-5. Manish Sharma Timilsina,Yuvraj Chaudhary, Prikshya Bhattarai,Bibek Uprety, and Dilip
+doi: [10.1016/j.fuel.2023.129573](10.1016/j.fuel.2023.129573).
+
+5.  Manish Sharma Timilsina,Yuvraj Chaudhary, Prikshya Bhattarai,Bibek Uprety, and Dilip
 Khatiwada. *Optimizing Pyrolysis and Co-Pyrolysis of Plastic and Biomass Using Artificial
 Intelligence*. Energy and Conversion Management: X,vol. 24, p.100783,Oct. 2024. doi:
-[10.1016/j.ecmx.2024.100783]
+[10.1016/j.ecmx.2024.100783](10.1016/j.ecmx.2024.100783)
 
-## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
